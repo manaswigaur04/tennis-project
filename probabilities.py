@@ -46,8 +46,8 @@ ax.plot_surface(P, Q, Z, cmap='plasma')
 ax.set_xlabel('Probability that player A wins a point when A is serving')
 ax.set_ylabel('Probability that player B wins a point when B is serving')
 ax.set_zlabel('Probability that player A wins the set')
-ax.elev = 90
-ax.azim = 0
+# ax.elev = 90
+# ax.azim = 0
 surf = ax.plot_surface(P, Q, Z, cmap='plasma')
 fig.colorbar(surf, ax=ax)
 plt.savefig('tennis_set_win_probability.png')
