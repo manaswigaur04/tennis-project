@@ -1,0 +1,523 @@
+Simulating match 1/2
+	Simulating set 1, current score: Player A 0 - Player B 0
+		Simulating game 1, current score: Player A 0 - Player B 0
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 1 - Player B 0
+			Current game score: Player A 1 - Player B 0
+		Simulating game 2, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 1 - Player B 2
+			Point winner: B, current score: Player A 1 - Player B 3
+			Point winner: B, current score: Player A 1 - Player B 4
+			Player B wins the game, current score: Player A 1 - Player B 1
+			Current game score: Player A 1 - Player B 1
+		Simulating game 3, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: A, current score: Player A 2 - Player B 0
+			Point winner: A, current score: Player A 3 - Player B 0
+			Point winner: B, current score: Player A 3 - Player B 1
+			Point winner: A, current score: Player A 4 - Player B 1
+			Player A wins the game, current score: Player A 2 - Player B 1
+			Current game score: Player A 2 - Player B 1
+		Simulating game 4, current score: Player A 2 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: B, current score: Player A 3 - Player B 3
+			Point winner: B, current score: Player A 3 - Player B 4
+			Point winner: B, current score: Player A 3 - Player B 5
+			Player B wins the game, current score: Player A 2 - Player B 2
+			Current game score: Player A 2 - Player B 2
+		Simulating game 5, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 3 - Player B 2
+			Current game score: Player A 3 - Player B 2
+		Simulating game 6, current score: Player A 3 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: B, current score: Player A 2 - Player B 3
+			Point winner: A, current score: Player A 3 - Player B 3
+			Point winner: B, current score: Player A 3 - Player B 4
+			Point winner: B, current score: Player A 3 - Player B 5
+			Player B wins the game, current score: Player A 3 - Player B 3
+			Current game score: Player A 3 - Player B 3
+		Simulating game 7, current score: Player A 3 - Player B 3
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 3
+			Point winner: B, current score: Player A 0 - Player B 4
+			Player B wins the game, current score: Player A 3 - Player B 4
+			Current game score: Player A 3 - Player B 4
+		Simulating game 8, current score: Player A 3 - Player B 4
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 4 - Player B 4
+			Current game score: Player A 4 - Player B 4
+		Simulating game 9, current score: Player A 4 - Player B 4
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: A, current score: Player A 2 - Player B 0
+			Point winner: A, current score: Player A 3 - Player B 0
+			Point winner: A, current score: Player A 4 - Player B 0
+			Player A wins the game, current score: Player A 5 - Player B 4
+			Current game score: Player A 5 - Player B 4
+		Simulating game 10, current score: Player A 5 - Player B 4
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: B, current score: Player A 2 - Player B 3
+			Point winner: A, current score: Player A 3 - Player B 3
+			Point winner: B, current score: Player A 3 - Player B 4
+			Point winner: B, current score: Player A 3 - Player B 5
+			Player B wins the game, current score: Player A 5 - Player B 5
+			Current game score: Player A 5 - Player B 5
+		Simulating game 11, current score: Player A 5 - Player B 5
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 2 - Player B 2
+			Point winner: B, current score: Player A 2 - Player B 3
+			Point winner: B, current score: Player A 2 - Player B 4
+			Player B wins the game, current score: Player A 5 - Player B 6
+			Current game score: Player A 5 - Player B 6
+		Simulating game 12, current score: Player A 5 - Player B 6
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 3
+			Point winner: A, current score: Player A 1 - Player B 3
+			Point winner: A, current score: Player A 2 - Player B 3
+			Point winner: B, current score: Player A 2 - Player B 4
+			Player B wins the game, current score: Player A 5 - Player B 7
+	Player B wins the set, current score: Player A 0 - Player B 1
+	Simulating set 2, current score: Player A 0 - Player B 1
+		Simulating game 1, current score: Player A 0 - Player B 0
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 2
+			Point winner: B, current score: Player A 1 - Player B 3
+			Point winner: B, current score: Player A 1 - Player B 4
+			Player B wins the game, current score: Player A 0 - Player B 1
+			Current game score: Player A 0 - Player B 1
+		Simulating game 2, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 2
+			Point winner: B, current score: Player A 1 - Player B 3
+			Point winner: B, current score: Player A 1 - Player B 4
+			Player B wins the game, current score: Player A 0 - Player B 2
+			Current game score: Player A 0 - Player B 2
+		Simulating game 3, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 2 - Player B 2
+			Point winner: B, current score: Player A 2 - Player B 3
+			Point winner: B, current score: Player A 2 - Player B 4
+			Player B wins the game, current score: Player A 0 - Player B 3
+			Current game score: Player A 0 - Player B 3
+		Simulating game 4, current score: Player A 0 - Player B 3
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: A, current score: Player A 2 - Player B 0
+			Point winner: A, current score: Player A 3 - Player B 0
+			Point winner: A, current score: Player A 4 - Player B 0
+			Player A wins the game, current score: Player A 1 - Player B 3
+			Current game score: Player A 1 - Player B 3
+		Simulating game 5, current score: Player A 1 - Player B 3
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 2 - Player B 3
+			Current game score: Player A 2 - Player B 3
+		Simulating game 6, current score: Player A 2 - Player B 3
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 2
+			Point winner: B, current score: Player A 1 - Player B 3
+			Point winner: A, current score: Player A 2 - Player B 3
+			Point winner: A, current score: Player A 3 - Player B 3
+			Point winner: A, current score: Player A 4 - Player B 3
+			Point winner: B, current score: Player A 4 - Player B 4
+			Point winner: B, current score: Player A 4 - Player B 5
+			Point winner: B, current score: Player A 4 - Player B 6
+			Player B wins the game, current score: Player A 2 - Player B 4
+			Current game score: Player A 2 - Player B 4
+		Simulating game 7, current score: Player A 2 - Player B 4
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 3
+			Point winner: B, current score: Player A 0 - Player B 4
+			Player B wins the game, current score: Player A 2 - Player B 5
+			Current game score: Player A 2 - Player B 5
+		Simulating game 8, current score: Player A 2 - Player B 5
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 3
+			Point winner: B, current score: Player A 0 - Player B 4
+			Player B wins the game, current score: Player A 2 - Player B 6
+	Player B wins the set, current score: Player A 0 - Player B 2
+Player B wins the match, current score: Player A 0 - Player B 1
+Simulating match 2/2
+	Simulating set 1, current score: Player A 0 - Player B 0
+		Simulating game 1, current score: Player A 0 - Player B 0
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 3
+			Point winner: A, current score: Player A 1 - Player B 3
+			Point winner: A, current score: Player A 2 - Player B 3
+			Point winner: A, current score: Player A 3 - Player B 3
+			Point winner: B, current score: Player A 3 - Player B 4
+			Point winner: B, current score: Player A 3 - Player B 5
+			Player B wins the game, current score: Player A 0 - Player B 1
+			Current game score: Player A 0 - Player B 1
+		Simulating game 2, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: A, current score: Player A 2 - Player B 0
+			Point winner: A, current score: Player A 3 - Player B 0
+			Point winner: A, current score: Player A 4 - Player B 0
+			Player A wins the game, current score: Player A 1 - Player B 1
+			Current game score: Player A 1 - Player B 1
+		Simulating game 3, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 2 - Player B 1
+			Current game score: Player A 2 - Player B 1
+		Simulating game 4, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: B, current score: Player A 3 - Player B 3
+			Point winner: A, current score: Player A 4 - Player B 3
+			Point winner: B, current score: Player A 4 - Player B 4
+			Point winner: B, current score: Player A 4 - Player B 5
+			Point winner: A, current score: Player A 5 - Player B 5
+			Point winner: A, current score: Player A 6 - Player B 5
+			Point winner: B, current score: Player A 6 - Player B 6
+			Point winner: B, current score: Player A 6 - Player B 7
+			Point winner: A, current score: Player A 7 - Player B 7
+			Point winner: A, current score: Player A 8 - Player B 7
+			Point winner: A, current score: Player A 9 - Player B 7
+			Player A wins the game, current score: Player A 3 - Player B 1
+			Current game score: Player A 3 - Player B 1
+		Simulating game 5, current score: Player A 3 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: B, current score: Player A 3 - Player B 3
+			Point winner: A, current score: Player A 4 - Player B 3
+			Point winner: B, current score: Player A 4 - Player B 4
+			Point winner: A, current score: Player A 5 - Player B 4
+			Point winner: B, current score: Player A 5 - Player B 5
+			Point winner: B, current score: Player A 5 - Player B 6
+			Point winner: B, current score: Player A 5 - Player B 7
+			Player B wins the game, current score: Player A 3 - Player B 2
+			Current game score: Player A 3 - Player B 2
+		Simulating game 6, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: A, current score: Player A 2 - Player B 0
+			Point winner: A, current score: Player A 3 - Player B 0
+			Point winner: A, current score: Player A 4 - Player B 0
+			Player A wins the game, current score: Player A 4 - Player B 2
+			Current game score: Player A 4 - Player B 2
+		Simulating game 7, current score: Player A 4 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 5 - Player B 2
+			Current game score: Player A 5 - Player B 2
+		Simulating game 8, current score: Player A 5 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 2 - Player B 2
+			Point winner: B, current score: Player A 2 - Player B 3
+			Point winner: B, current score: Player A 2 - Player B 4
+			Player B wins the game, current score: Player A 5 - Player B 3
+			Current game score: Player A 5 - Player B 3
+		Simulating game 9, current score: Player A 5 - Player B 3
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 3
+			Point winner: A, current score: Player A 1 - Player B 3
+			Point winner: A, current score: Player A 2 - Player B 3
+			Point winner: A, current score: Player A 3 - Player B 3
+			Point winner: A, current score: Player A 4 - Player B 3
+			Point winner: B, current score: Player A 4 - Player B 4
+			Point winner: B, current score: Player A 4 - Player B 5
+			Point winner: B, current score: Player A 4 - Player B 6
+			Player B wins the game, current score: Player A 5 - Player B 4
+			Current game score: Player A 5 - Player B 4
+		Simulating game 10, current score: Player A 5 - Player B 4
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 3
+			Point winner: A, current score: Player A 1 - Player B 3
+			Point winner: B, current score: Player A 1 - Player B 4
+			Player B wins the game, current score: Player A 5 - Player B 5
+			Current game score: Player A 5 - Player B 5
+		Simulating game 11, current score: Player A 5 - Player B 5
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 6 - Player B 5
+			Current game score: Player A 6 - Player B 5
+		Simulating game 12, current score: Player A 6 - Player B 5
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 1 - Player B 2
+			Point winner: B, current score: Player A 1 - Player B 3
+			Point winner: A, current score: Player A 2 - Player B 3
+			Point winner: A, current score: Player A 3 - Player B 3
+			Point winner: A, current score: Player A 4 - Player B 3
+			Point winner: A, current score: Player A 5 - Player B 3
+			Player A wins the game, current score: Player A 7 - Player B 5
+	Player A wins the set, current score: Player A 1 - Player B 0
+	Simulating set 2, current score: Player A 1 - Player B 0
+		Simulating game 1, current score: Player A 0 - Player B 0
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 1 - Player B 0
+			Current game score: Player A 1 - Player B 0
+		Simulating game 2, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 3
+			Point winner: B, current score: Player A 0 - Player B 4
+			Player B wins the game, current score: Player A 1 - Player B 1
+			Current game score: Player A 1 - Player B 1
+		Simulating game 3, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 3
+			Point winner: A, current score: Player A 1 - Player B 3
+			Point winner: A, current score: Player A 2 - Player B 3
+			Point winner: A, current score: Player A 3 - Player B 3
+			Point winner: A, current score: Player A 4 - Player B 3
+			Point winner: B, current score: Player A 4 - Player B 4
+			Point winner: B, current score: Player A 4 - Player B 5
+			Point winner: A, current score: Player A 5 - Player B 5
+			Point winner: B, current score: Player A 5 - Player B 6
+			Point winner: A, current score: Player A 6 - Player B 6
+			Point winner: A, current score: Player A 7 - Player B 6
+			Point winner: B, current score: Player A 7 - Player B 7
+			Point winner: A, current score: Player A 8 - Player B 7
+			Point winner: B, current score: Player A 8 - Player B 8
+			Point winner: B, current score: Player A 8 - Player B 9
+			Point winner: A, current score: Player A 9 - Player B 9
+			Point winner: B, current score: Player A 9 - Player B 10
+			Point winner: B, current score: Player A 9 - Player B 11
+			Player B wins the game, current score: Player A 1 - Player B 2
+			Current game score: Player A 1 - Player B 2
+		Simulating game 4, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: A, current score: Player A 3 - Player B 1
+			Point winner: A, current score: Player A 4 - Player B 1
+			Player A wins the game, current score: Player A 2 - Player B 2
+			Current game score: Player A 2 - Player B 2
+		Simulating game 5, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: A, current score: Player A 2 - Player B 0
+			Point winner: B, current score: Player A 2 - Player B 1
+			Point winner: A, current score: Player A 3 - Player B 1
+			Point winner: B, current score: Player A 3 - Player B 2
+			Point winner: B, current score: Player A 3 - Player B 3
+			Point winner: A, current score: Player A 4 - Player B 3
+			Point winner: B, current score: Player A 4 - Player B 4
+			Point winner: A, current score: Player A 5 - Player B 4
+			Point winner: A, current score: Player A 6 - Player B 4
+			Player A wins the game, current score: Player A 3 - Player B 2
+			Current game score: Player A 3 - Player B 2
+		Simulating game 6, current score: Player A 3 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 2
+			Point winner: B, current score: Player A 1 - Player B 3
+			Point winner: B, current score: Player A 1 - Player B 4
+			Player B wins the game, current score: Player A 3 - Player B 3
+			Current game score: Player A 3 - Player B 3
+		Simulating game 7, current score: Player A 3 - Player B 3
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 4 - Player B 3
+			Current game score: Player A 4 - Player B 3
+		Simulating game 8, current score: Player A 4 - Player B 3
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: B, current score: Player A 2 - Player B 3
+			Point winner: A, current score: Player A 3 - Player B 3
+			Point winner: B, current score: Player A 3 - Player B 4
+			Point winner: B, current score: Player A 3 - Player B 5
+			Player B wins the game, current score: Player A 4 - Player B 4
+			Current game score: Player A 4 - Player B 4
+		Simulating game 9, current score: Player A 4 - Player B 4
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 2
+			Point winner: B, current score: Player A 1 - Player B 3
+			Point winner: B, current score: Player A 1 - Player B 4
+			Player B wins the game, current score: Player A 4 - Player B 5
+			Current game score: Player A 4 - Player B 5
+		Simulating game 10, current score: Player A 4 - Player B 5
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: B, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 2 - Player B 2
+			Point winner: B, current score: Player A 2 - Player B 3
+			Point winner: B, current score: Player A 2 - Player B 4
+			Player B wins the game, current score: Player A 4 - Player B 6
+	Player B wins the set, current score: Player A 1 - Player B 1
+	Simulating set 3, current score: Player A 1 - Player B 1
+		Simulating game 1, current score: Player A 0 - Player B 0
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 2 - Player B 2
+			Point winner: B, current score: Player A 2 - Player B 3
+			Point winner: B, current score: Player A 2 - Player B 4
+			Player B wins the game, current score: Player A 0 - Player B 1
+			Current game score: Player A 0 - Player B 1
+		Simulating game 2, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 1 - Player B 1
+			Current game score: Player A 1 - Player B 1
+		Simulating game 3, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 2
+			Point winner: B, current score: Player A 1 - Player B 3
+			Point winner: B, current score: Player A 1 - Player B 4
+			Player B wins the game, current score: Player A 1 - Player B 2
+			Current game score: Player A 1 - Player B 2
+		Simulating game 4, current score: Player A 1 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: A, current score: Player A 3 - Player B 1
+			Point winner: B, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 2 - Player B 2
+			Current game score: Player A 2 - Player B 2
+		Simulating game 5, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: A, current score: Player A 2 - Player B 0
+			Point winner: B, current score: Player A 2 - Player B 1
+			Point winner: A, current score: Player A 3 - Player B 1
+			Point winner: A, current score: Player A 4 - Player B 1
+			Player A wins the game, current score: Player A 3 - Player B 2
+			Current game score: Player A 3 - Player B 2
+		Simulating game 6, current score: Player A 3 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: B, current score: Player A 1 - Player B 2
+			Point winner: B, current score: Player A 1 - Player B 3
+			Point winner: A, current score: Player A 2 - Player B 3
+			Point winner: B, current score: Player A 2 - Player B 4
+			Player B wins the game, current score: Player A 3 - Player B 3
+			Current game score: Player A 3 - Player B 3
+		Simulating game 7, current score: Player A 3 - Player B 3
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: A, current score: Player A 2 - Player B 0
+			Point winner: A, current score: Player A 3 - Player B 0
+			Point winner: B, current score: Player A 3 - Player B 1
+			Point winner: B, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 4 - Player B 3
+			Current game score: Player A 4 - Player B 3
+		Simulating game 8, current score: Player A 4 - Player B 3
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: B, current score: Player A 0 - Player B 3
+			Point winner: A, current score: Player A 1 - Player B 3
+			Point winner: B, current score: Player A 1 - Player B 4
+			Player B wins the game, current score: Player A 4 - Player B 4
+			Current game score: Player A 4 - Player B 4
+		Simulating game 9, current score: Player A 4 - Player B 4
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: A, current score: Player A 3 - Player B 1
+			Point winner: B, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 5 - Player B 4
+			Current game score: Player A 5 - Player B 4
+		Simulating game 10, current score: Player A 5 - Player B 4
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: A, current score: Player A 1 - Player B 1
+			Point winner: A, current score: Player A 2 - Player B 1
+			Point winner: B, current score: Player A 2 - Player B 2
+			Point winner: B, current score: Player A 2 - Player B 3
+			Point winner: A, current score: Player A 3 - Player B 3
+			Point winner: B, current score: Player A 3 - Player B 4
+			Point winner: B, current score: Player A 3 - Player B 5
+			Player B wins the game, current score: Player A 5 - Player B 5
+			Current game score: Player A 5 - Player B 5
+		Simulating game 11, current score: Player A 5 - Player B 5
+			Point winner: B, current score: Player A 0 - Player B 1
+			Point winner: B, current score: Player A 0 - Player B 2
+			Point winner: A, current score: Player A 1 - Player B 2
+			Point winner: A, current score: Player A 2 - Player B 2
+			Point winner: A, current score: Player A 3 - Player B 2
+			Point winner: A, current score: Player A 4 - Player B 2
+			Player A wins the game, current score: Player A 6 - Player B 5
+			Current game score: Player A 6 - Player B 5
+		Simulating game 12, current score: Player A 6 - Player B 5
+			Point winner: A, current score: Player A 1 - Player B 0
+			Point winner: A, current score: Player A 2 - Player B 0
+			Point winner: B, current score: Player A 2 - Player B 1
+			Point winner: A, current score: Player A 3 - Player B 1
+			Point winner: A, current score: Player A 4 - Player B 1
+			Player A wins the game, current score: Player A 7 - Player B 5
+	Player A wins the set, current score: Player A 2 - Player B 1
+Player A wins the match, current score: Player A 1 - Player B 1
