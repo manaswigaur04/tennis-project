@@ -1,12 +1,64 @@
 # p is the probability that player A wins a point when A is serving
 # q is the probability that player B wins a point when B is serving
-p = 0.5
-q = 0.5
 
 import numpy as np
+import torch
+import torch.nn as nn
+import json
+
+# Load player mapping
+with open('player_to_id.json', 'r') as f:
+    player_to_id = json.load(f)
+
+num_players = len(player_to_id)
+
+# Define the model class
+class TennisProbModel(nn.Module):
+    def __init__(self, num_players, embed_dim=10, hidden_dim=64):
+        super(TennisProbModel, self).__init__()
+        self.player_embed = nn.Embedding(num_players, embed_dim)
+        self.fc1 = nn.Linear(embed_dim * 2, hidden_dim)
+        self.fc2 = nn.Linear(hidden_dim, hidden_dim // 2)
+        self.fc3 = nn.Linear(hidden_dim // 2, 2)
+        self.dropout = nn.Dropout(0.1)
+
+    def forward(self, x):
+        p1_emb = self.player_embed(x[:, 0].long())
+        p2_emb = self.player_embed(x[:, 1].long())
+        x = torch.cat([p1_emb, p2_emb], dim=1)
+        x = torch.relu(self.fc1(x))
+        x = self.dropout(x)
+        x = torch.relu(self.fc2(x))
+        x = self.dropout(x)
+        x = torch.sigmoid(self.fc3(x))
+        return x
+
+# Load the model
+model = TennisProbModel(num_players)
+model.load_state_dict(torch.load('tennis_model.pth'))
+model.eval()
+
+# Ask for player names
+player_a = input("Enter name of Player A: ")
+player_b = input("Enter name of Player B: ")
+
+if player_a not in player_to_id or player_b not in player_to_id:
+    print("One or both players not found in training data.")
+    exit()
+
+p1_id = player_to_id[player_a]
+p2_id = player_to_id[player_b]
+input_tensor = torch.tensor([[p1_id, p2_id]], dtype=torch.float32)
+
+with torch.no_grad():
+    output = model(input_tensor)
+
+p, q = output[0].tolist()
+print(f"Predicted p (A wins when serving): {p:.4f}")
+print(f"Predicted q (B wins when serving): {q:.4f}")
 
 # please enable this while number of matches is small, as it will log the details of each match in a file named "game_log.txt".
-logging_enabled = True
+logging_enabled = False
 log_file = open("game_log.txt", "w")
 
 def play_point(server,p,q):
@@ -120,7 +172,7 @@ def simulate_matches(num_matches,number_of_sets,p,q):
     return player_a_wins, player_b_wins
 
 if __name__ == "__main__":
-    num_matches = 2
+    num_matches = 10000
     number_of_sets = 3
     player_a_wins, player_b_wins = simulate_matches(num_matches,number_of_sets,p,q)
     print(f"Player A won {player_a_wins} out of {num_matches} matches.")
